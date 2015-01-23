@@ -1,0 +1,21 @@
+{
+    "name": "marketmediasoft/yii2-payuru-examples",
+    "description": "payuru_examples",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","payu","payuru"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sergey",
+            "email": "sergey@directiva.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "payuru\\": ""
+        }
+    }
+}
