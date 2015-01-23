@@ -2,14 +2,10 @@
 
 namespace payuru;
 
-/**
- * This is just an example.
- */
-class PayU extends \yii\base\Widget
+class PayU extends \yii\base\Component
 {
-    public function run()
-    {
-        return true;
+    public function init(){
+        //
     }
 
     const LU_URL = 'https://secure.payu.ru/order/lu.php';
