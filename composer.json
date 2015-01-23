@@ -1,5 +1,6 @@
 {
     "name": "marketmediasoft/yii2-payuru-examples",
+    "version": "1.0.0",
     "description": "payuru_examples",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","payu","payuru"],
