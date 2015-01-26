@@ -2,7 +2,7 @@
 
 namespace payuru;
 
-class AutoloadPayU extends \yii\base\Component
+class PayU extends \yii\base\Component
 {
     public function init(){
         //
